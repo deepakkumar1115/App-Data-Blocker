@@ -1,0 +1,8 @@
+{
+  "name": "Remix AppData Blocker Pro",
+  "description": "Block app internet access without root. Save daily data packs, kill background lag, and protect your privacy on-device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
